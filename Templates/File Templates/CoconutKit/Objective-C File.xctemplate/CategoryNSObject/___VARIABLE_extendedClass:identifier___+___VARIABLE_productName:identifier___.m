@@ -1,7 +1,7 @@
 //
 //  Copyright (c) ___ORGANIZATIONNAME___. All rights reserved.
 //
-//  Licence information is available from the LICENCE file.
+//  License information is available from the LICENSE file.
 //
 
 #import "___VARIABLE_extendedClass:identifier___+___VARIABLE_productName:identifier___.h"
